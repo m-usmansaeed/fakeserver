@@ -2,19 +2,19 @@
   "recipies": [
     {
         "name": "Crock Pot Roast",
-        "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg"
+        "imageURL": "https://www.savorynothings.com/wp-content/uploads/2021/02/crockpot-pot-roast-image-hero.jpg"
     },
     {
         "name": "Roasted Asparagus",
-        "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/50/84/7/picMcSyVd.jpg"
+        "imageURL": "https://thecuriousplate.com/wp-content/uploads/2019/04/Caprese-Roasted-Asparagus-www.thecuriousplate.com-1.jpg"
     },
     {
         "name": "Curried Lentils and Rice",
-        "imageURL": "http://dagzhsfg97k4.cloudfront.net/wp-content/uploads/2012/05/lentils3.jpg"
+        "imageURL": "https://thevietvegan.com/wp-content/uploads/2012/05/img_5947-720x540.jpg"
     },
     {
         "name": "Big Night Pizza",
-        "imageURL": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Spinach_pizza.jpg"
+        "imageURL": "https://djq2q4f22hoou.cloudfront.net/live/desktop/images/activity-types/taste-sensation/pizza-night-header.jpg"
     },
     {
         "name": "Cranberry and Apple Stuffed Acorn Squash Recipe",
@@ -30,11 +30,11 @@
     },
     {
         "name": "Blueberry Oatmeal Squares",
-        "imageURL": "http://www.canadianliving.com/img/photos/biz/blueberry-oatmeal-squares5801359401371.jpg"
+        "imageURL": "https://foodal.com/wp-content/uploads/2022/06/Blueberry-Oatmeal-Squares.jpg"
     },
     {
         "name": "Curried chicken salad",
-        "imageURL": "http://www.chatelaine.com/wp-content/uploads/2013/05/Curried-chicken-salad.jpg"
+        "imageURL": "https://pamelasalzman.com/wp-content/uploads//2015/09/DSC_1155-e1442376964302.jpg"
     }
     ]
 }
