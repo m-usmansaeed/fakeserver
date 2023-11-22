@@ -3,47 +3,56 @@
     {
       "name": "Crock Pot Roast",
       "imageURL": "https://www.savorynothings.com/wp-content/uploads/2021/02/crockpot-pot-roast-image-hero.jpg",
-      "description": "Delicious fusion dish: bold flavors, easy prep."
+      "description": "Delicious fusion dish: bold flavors, easy prep.",
+      "price": 29.99
     },
     {
       "name": "Roasted Asparagus",
       "imageURL": "https://thecuriousplate.com/wp-content/uploads/2019/04/Caprese-Roasted-Asparagus-www.thecuriousplate.com-1.jpg",
-      "description": "Delicious fusion dish: bold flavors, easy prep."
+      "description": "Delicious fusion dish: bold flavors, easy prep.",
+      "price": 12.99
     },
     {
       "name": "Curried Lentils and Rice",
       "imageURL": "https://thevietvegan.com/wp-content/uploads/2012/05/img_5947-720x540.jpg",
-      "description": "Delicious fusion dish: bold flavors, easy prep."
+      "description": "Delicious fusion dish: bold flavors, easy prep.",
+      "price": 14.99
     },
     {
       "name": "Big Night Pizza",
       "imageURL": "https://djq2q4f22hoou.cloudfront.net/live/desktop/images/activity-types/taste-sensation/pizza-night-header.jpg",
-      "description": "Delicious fusion dish: bold flavors, easy prep."
+      "description": "Delicious fusion dish: bold flavors, easy prep.",
+      "price": 23.99
     },
     {
       "name": "Cranberry and Apple Stuffed Acorn Squash Recipe",
       "imageURL": "http://elanaspantry.com/wp-content/uploads/2008/10/acorn_squash_with_cranberry.jpg",
-      "description": "Delicious fusion dish: bold flavors, easy prep."
+      "description": "Delicious fusion dish: bold flavors, easy prep.",
+      "price": 9.99
     },
     {
       "name": "Mic's Yorkshire Puds",
       "imageURL": "http://upload.wikimedia.org/wikipedia/commons/f/f9/Yorkshire_Pudding.jpg",
-      "description": "Delicious fusion dish: bold flavors, easy prep."
+      "description": "Delicious fusion dish: bold flavors, easy prep.",
+      "price": 21.99
     },
     {
       "name": "Old-Fashioned Oatmeal Cookies",
       "imageURL": "http://s3.amazonaws.com/gmi-digital-library/65caecf7-a8f7-4a09-8513-2659cf92871e.jpg",
-      "description": "Delicious fusion dish: bold flavors, easy prep."
+      "description": "Delicious fusion dish: bold flavors, easy prep.",
+      "price": 19.99
     },
     {
       "name": "Blueberry Oatmeal Squares",
       "imageURL": "https://foodal.com/wp-content/uploads/2022/06/Blueberry-Oatmeal-Squares.jpg",
-      "description": "Delicious fusion dish: bold flavors, easy prep."
+      "description": "Delicious fusion dish: bold flavors, easy prep.",
+      "price": 24.23
     },
     {
       "name": "Curried chicken salad",
       "imageURL": "https://pamelasalzman.com/wp-content/uploads//2015/09/DSC_1155-e1442376964302.jpg",
-      "description": "Delicious fusion dish: bold flavors, easy prep."
+      "description": "Delicious fusion dish: bold flavors, easy prep.",
+      "price": 27.50
     }
   ]
 }
